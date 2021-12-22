@@ -1,6 +1,6 @@
 # OCT-VBI-course
 
-### Content  
+### Assignment_1  
 - Install Rust 
 - Start substrate-node-template  
 ![image](1_node_template.png)  
